@@ -4,6 +4,8 @@ JavaScript Object Notation (JSON) support for SuperCollider
 
 ## Requirements
 
+Requires StringScanner-sc classes.
+
 This code was developed and have been tested in SuperCollider 3.6.6.
 
 ## Installation
@@ -14,5 +16,8 @@ The user-specific extension directory may be retrieved by evaluating Platform.us
 
 ## Credits
 
-Parser is ported from and based on Ruby code
+The parser is based on and partially ported from [Ruby code by Florian Frank](http://github.com/flori/json)
 
+## License
+
+Copyright (c) Anton Hörnquist
